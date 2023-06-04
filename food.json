@@ -1,0 +1,218 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "26911",
+        "name": "Food Engineering Fundamentals"
+    },
+    {
+        "code": "26912",
+        "name": "Food Safety & Hygiene Management"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "26921",
+        "name": "Food Science & Nutrition"
+    },
+    {
+        "code": "26922",
+        "name": "Food Plant Layout & Design"
+    },
+    {
+        "code": "27011",
+        "name": "Basic Workshop Practice"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "26931",
+        "name": "Catering Management"
+    },
+    {
+        "code": "26932",
+        "name": "Food Industrial Chemistry"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26941",
+        "name": "Food Microbiology-I"
+    },
+    {
+        "code": "26942",
+        "name": "Food Preservation-I"
+    },
+    {
+        "code": "26943",
+        "name": "Food Chemistry"
+    },
+    {
+        "code": "26944",
+        "name": "Food Packaging"
+    },
+    {
+        "code": "26945",
+        "name": "Dairy Products"
+    },
+    {
+        "code": "27041",
+        "name": "Engineering Mechanics"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26355",
+        "name": "Refrigeration & Cold Storage"
+    },
+    {
+        "code": "26951",
+        "name": "Food Microbiology-II"
+    },
+    {
+        "code": "26952",
+        "name": "Food Preservation-II"
+    },
+    {
+        "code": "26953",
+        "name": "Food Biotechnology"
+    },
+    {
+        "code": "26954",
+        "name": "Food & Beverage Products"
+    },
+    {
+        "code": "26955",
+        "name": "Food Industrial Instrumentation & Process Control"
+    },
+    {
+        "code": "26364",
+        "name": "Industrial Stoichiometry & Thermodynamics"
+    },
+    {
+        "code": "26365",
+        "name": "Instrumental Methods of Analysis"
+    },
+    {
+        "code": "26961",
+        "name": "Food Engineering Operation-I"
+    },
+    {
+        "code": "26962",
+        "name": "Food Process Industries-I"
+    },
+    {
+        "code": "26963",
+        "name": "Bakery Products"
+    },
+    {
+        "code": "26964",
+        "name": "Food Adulteration & Toxicology"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26971",
+        "name": "Food Engineering Operation-II"
+    },
+    {
+        "code": "26972",
+        "name": "Food Process Industries-II"
+    },
+    {
+        "code": "26973",
+        "name": "Food Quality Control & Assurance"
+    },
+    {
+        "code": "26974",
+        "name": "Confectionery Products"
+    },
+    {
+        "code": "26975",
+        "name": "Food Analysis"
+    },
+    {
+        "code": "26976",
+        "name": "Food Engineering Project"
+    },
+    {
+        "code": "26981",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

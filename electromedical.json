@@ -1,0 +1,210 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "28611",
+        "name": "Human Anatomy and Physiology"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26721",
+        "name": "Electrical Circuits-I"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "28621",
+        "name": "Basic Biomedical Engineering"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26731",
+        "name": "Electrical Circuits-II"
+    },
+    {
+        "code": "28631",
+        "name": "Medical transducer and Sensors"
+    },
+    {
+        "code": "28632",
+        "name": "Operating Room Equipment"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26741",
+        "name": "Electrical Installation,Planning and Estimating"
+    },
+    {
+        "code": "26742",
+        "name": "DC Machine"
+    },
+    {
+        "code": "26752",
+        "name": "Electrical & Electronic Measurements-I"
+    },
+    {
+        "code": "26845",
+        "name": "Digital Electronics"
+    },
+    {
+        "code": "28641",
+        "name": "Dental Equipment"
+    },
+    {
+        "code": "28642",
+        "name": "Anesthesia and Respiratory Equipment"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "26761",
+        "name": "AC Machine-I"
+    },
+    {
+        "code": "26763",
+        "name": "Electrical & Electronic Measurements-II"
+    },
+    {
+        "code": "28651",
+        "name": "Radiology and Imaging Equipment"
+    },
+    {
+        "code": "28652",
+        "name": "Fibre Optics and Laser in Medical Field"
+    },
+    {
+        "code": "28653",
+        "name": "Physiotherapy and Rehabilitation Devices"
+    },
+    {
+        "code": "26764",
+        "name": "Transmission and Distribution of Electrical  Power"
+    },
+    {
+        "code": "26771",
+        "name": "AC Machine-II"
+    },
+    {
+        "code": "28661",
+        "name": "Diagonestic and Laboratory Equipment"
+    },
+    {
+        "code": "28662",
+        "name": "Microprocesor and Biomedical Application"
+    },
+    {
+        "code": "28663",
+        "name": "Testing and Maintenance Biomedical Equipment"
+    },
+    {
+        "code": "28664",
+        "name": "CAD in Biomedical Engineering"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26773",
+        "name": "Switch Gear and Protection"
+    },
+    {
+        "code": "28671",
+        "name": "Advance Biomedical Equiment"
+    },
+    {
+        "code": "28672",
+        "name": "ICU and CCU  Equipment"
+    },
+    {
+        "code": "28673",
+        "name": "Biomedical Engineering Project"
+    },
+    {
+        "code": "28674",
+        "name": "Medical Physics and Nuclear Instruments"
+    },
+    {
+        "code": "28681",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

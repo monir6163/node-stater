@@ -1,0 +1,218 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "26311",
+        "name": "Chemical Engineering Fundamentals"
+    },
+    {
+        "code": "26312",
+        "name": "Safety in Chemical Industry"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "26321",
+        "name": "Basic Stoichiometry"
+    },
+    {
+        "code": "26322",
+        "name": "Chemical Engineering Drawing"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "27011",
+        "name": "Basic Workshop Practice"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26331",
+        "name": "Chemical Engineering Operation-I"
+    },
+    {
+        "code": "26332",
+        "name": "Industrial Chemistry"
+    },
+    {
+        "code": "26333",
+        "name": "Chemical Engineering Materials"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26341",
+        "name": "Chemical Engineering Operation-II"
+    },
+    {
+        "code": "26342",
+        "name": "Chemical Process Industries-I"
+    },
+    {
+        "code": "26343",
+        "name": "Oil, Fats & Waxes"
+    },
+    {
+        "code": "26344",
+        "name": "Analytical Chemistry"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "27041",
+        "name": "Engineering Mechanics"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26351",
+        "name": "Chemical Engineering Operation-III"
+    },
+    {
+        "code": "26352",
+        "name": "Chemical Process Industries-II"
+    },
+    {
+        "code": "26353",
+        "name": "Water Treatment Technology"
+    },
+    {
+        "code": "26354",
+        "name": "Industrial Instrumentation & Process Control"
+    },
+    {
+        "code": "26355",
+        "name": "Refrigeration & Cold Storage"
+    },
+    {
+        "code": "26356",
+        "name": "Industrial Production Engineering"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "26361",
+        "name": "Chemical Engineering Operation-IV"
+    },
+    {
+        "code": "26362",
+        "name": "Chemical Process Industries-III"
+    },
+    {
+        "code": "26363",
+        "name": "Petroleum & Petrochemicals"
+    },
+    {
+        "code": "26364",
+        "name": "Industrial Stoichiometry & Thermodynamics"
+    },
+    {
+        "code": "26365",
+        "name": "Instrumental Methods of Analysis"
+    },
+    {
+        "code": "26366",
+        "name": "Jute & Textile Technology"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26371",
+        "name": "Chemical Engineering Operation-V"
+    },
+    {
+        "code": "26372",
+        "name": "Chemical Process Industries-IV"
+    },
+    {
+        "code": "26373",
+        "name": "Natural Gas & Fertilizer"
+    },
+    {
+        "code": "26374",
+        "name": "Plastic & Polymer Technology"
+    },
+    {
+        "code": "26375",
+        "name": "Corrosion Technology"
+    },
+    {
+        "code": "26376",
+        "name": "Chemical Engineering Project"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "26381",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

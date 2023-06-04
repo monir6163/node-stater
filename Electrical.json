@@ -1,0 +1,198 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "26712",
+        "name": "Electrical Engineering Materials"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26721",
+        "name": "Electrical Circuits-I"
+    },
+    {
+        "code": "26722",
+        "name": "Electrical Engineering Drawing"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26731",
+        "name": "Electrical Circuits-II"
+    },
+    {
+        "code": "26732",
+        "name": "Electrical Appliances"
+    },
+    {
+        "code": "26833",
+        "name": "Industrial Electronics"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26741",
+        "name": "Electrical Installation,Planning and Estimating"
+    },
+    {
+        "code": "26742",
+        "name": "DC Machine"
+    },
+    {
+        "code": "26743",
+        "name": "Electrical Engineering Project-I"
+    },
+    {
+        "code": "26845",
+        "name": "Digital Electronics"
+    },
+    {
+        "code": "27044",
+        "name": "Applied Mechanics"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26751",
+        "name": "Generation of Electrical Power"
+    },
+    {
+        "code": "26752",
+        "name": "Electrical & Electronic Measurements-I"
+    },
+    {
+        "code": "26753",
+        "name": "Testing and Maintannance of Electrical Equipments"
+    },
+    {
+        "code": "26754",
+        "name": "Electrical Engineering Project-II"
+    },
+    {
+        "code": "26853",
+        "name": "Microprocessor & Microcontroller"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "26761",
+        "name": "AC Machine-I"
+    },
+    {
+        "code": "26762",
+        "name": "Transmission and Distribution of  Eectrical  Power-I"
+    },
+    {
+        "code": "26763",
+        "name": "Electrical & Electronic Measurements-II"
+    },
+    {
+        "code": "26842",
+        "name": "Communication Engineering"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26771",
+        "name": "AC Machine-II"
+    },
+    {
+        "code": "26772",
+        "name": "Transmission and Distribution of  Ellectrical Power-II"
+    },
+    {
+        "code": "26773",
+        "name": "Switch Gear and Protection"
+    },
+    {
+        "code": "26774",
+        "name": "Electrical Engineering Project-III"
+    },
+    {
+        "code": "26875",
+        "name": "Automation Engineering & PLC"
+    },
+    {
+        "code": "26781",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

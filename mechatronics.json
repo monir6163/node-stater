@@ -1,0 +1,210 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "27011",
+        "name": "Basic Workshop Practice"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "27012",
+        "name": "Machine Shop Practice I"
+    },
+    {
+        "code": "27021",
+        "name": "Mechanical Engineering Drawing"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26821",
+        "name": "Electronic Devices and Circuits"
+    },
+    {
+        "code": "27022",
+        "name": "Mechanical Engineering Materials"
+    },
+    {
+        "code": "29232",
+        "name": "Basic Mechatronics"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "27031",
+        "name": "Machine Shop Practice II"
+    },
+    {
+        "code": "27041",
+        "name": "Engineering Mechanics"
+    },
+    {
+        "code": "27131",
+        "name": "Engineering Thermodynamics"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "29241",
+        "name": "Electrical Circuits & Machine"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26845",
+        "name": "Digital Electronics"
+    },
+    {
+        "code": "27051",
+        "name": "Fluid Mechanics & Machineries"
+    },
+    {
+        "code": "27055",
+        "name": "Manufacturing Process"
+    },
+    {
+        "code": "27151",
+        "name": "Fundamental of Hybride & Electric Vehicle"
+    },
+    {
+        "code": "27152",
+        "name": "Power Plant Enginnering"
+    },
+    {
+        "code": "29251",
+        "name": "Programmable Logic Controller"
+    },
+    {
+        "code": "26833",
+        "name": "Industrial Electronics"
+    },
+    {
+        "code": "27061",
+        "name": "Strength of Materials"
+    },
+    {
+        "code": "27062",
+        "name": "Mechanical Measurement & Metrology"
+    },
+    {
+        "code": "27063",
+        "name": "CAD & CAM"
+    },
+    {
+        "code": "29261",
+        "name": "Microprocessor & Microcontroller Aplications"
+    },
+    {
+        "code": "29262",
+        "name": "Instrumentation & Control System"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "27071",
+        "name": "Design of Machine Elements"
+    },
+    {
+        "code": "27075",
+        "name": "Production Planning & Control"
+    },
+    {
+        "code": "29271",
+        "name": "Mechatronics Engineering Project"
+    },
+    {
+        "code": "29272",
+        "name": "Industrial Automation System Design"
+    },
+    {
+        "code": "29273",
+        "name": "Networks & Communications"
+    },
+    {
+        "code": "29274",
+        "name": "Robotics, Manufacture & Process Engineering"
+    },
+    {
+        "code": "27081",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

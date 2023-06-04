@@ -1,0 +1,226 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26411",
+        "name": "Civil Engineering Metarials"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "27821",
+        "name": "Basic Surveying"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "25915",
+        "name": "Biology-I(Agriculture, Forestry, Fisheries, Livestock), or Statistics(Textile) [There is a conflict with this subject code]"
+    },
+    {
+        "code": "26434",
+        "name": "Basic Construction Process"
+    },
+    {
+        "code": "27831",
+        "name": "Leveling"
+    },
+    {
+        "code": "27832",
+        "name": "Survey CAD"
+    },
+    {
+        "code": "27833",
+        "name": "Introduction of Geography"
+    },
+    {
+        "code": "27834",
+        "name": "Geodetic Surveying"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "26431",
+        "name": "Structural Mechanics"
+    },
+    {
+        "code": "26447",
+        "name": "Basic Estimating & Costing"
+    },
+    {
+        "code": "27841",
+        "name": "Aerial Photography and Photogrammetry"
+    },
+    {
+        "code": "27842",
+        "name": "Fundamentals of GIS"
+    },
+    {
+        "code": "27843",
+        "name": "Advanced Surveying-I"
+    },
+    {
+        "code": "27844",
+        "name": "Digital Cartography"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26454",
+        "name": "Theory of Structure"
+    },
+    {
+        "code": "26621",
+        "name": "Python Programming"
+    },
+    {
+        "code": "27851",
+        "name": "Advanced GIS"
+    },
+    {
+        "code": "27852",
+        "name": "Hydraulics & Hydrology"
+    },
+    {
+        "code": "27853",
+        "name": "Advanced Surveying-II"
+    },
+    {
+        "code": "27854",
+        "name": "Land Laws of Bangladesh"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26463",
+        "name": "Transportation Engineering-I"
+    },
+    {
+        "code": "26464",
+        "name": "Design of Structure-I"
+    },
+    {
+        "code": "27861",
+        "name": "Principles of Topographic Survey"
+    },
+    {
+        "code": "27862",
+        "name": "Application of Python Programming"
+    },
+    {
+        "code": "27863",
+        "name": "Hydrographic Surveying"
+    },
+    {
+        "code": "27864",
+        "name": "Survey Project-I"
+    },
+    {
+        "code": "27865",
+        "name": "Preapartion and Maintainces of Land Records"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26473",
+        "name": "Transportation Engineering-II"
+    },
+    {
+        "code": "26474",
+        "name": "Design of Structure-II"
+    },
+    {
+        "code": "27871",
+        "name": "Mine Surveying"
+    },
+    {
+        "code": "27872",
+        "name": "Survey Project-II"
+    },
+    {
+        "code": "27873",
+        "name": "Remote Sensing"
+    },
+    {
+        "code": "28871",
+        "name": "Construction Management & Documentation"
+    },
+    {
+        "code": "67881",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26721",
+        "name": "Electrical Circuits-I"
+    },
+    {
+        "code": "26821",
+        "name": "Electronic Devices and Circuits"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26731",
+        "name": "Electrical Circuits-II"
+    },
+    {
+        "code": "26831",
+        "name": "Digital Electronics-I"
+    },
+    {
+        "code": "26832",
+        "name": "Power Electronics"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26741",
+        "name": "Electrical Installation,Planning and Estimating"
+    },
+    {
+        "code": "26742",
+        "name": "DC Machine"
+    },
+    {
+        "code": "26841",
+        "name": "Digital Electronics-II"
+    },
+    {
+        "code": "26842",
+        "name": "Communication Engineering"
+    },
+    {
+        "code": "26843",
+        "name": "Networks, Filters and Transmission lines"
+    },
+    {
+        "code": "26844",
+        "name": "Electronic servicing"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "26751",
+        "name": "Generation of Electrical Power"
+    },
+    {
+        "code": "26752",
+        "name": "Electrical & Electronic Measurements-I"
+    },
+    {
+        "code": "26851",
+        "name": "Television Engineering"
+    },
+    {
+        "code": "26852",
+        "name": "Electronic Appliancs"
+    },
+    {
+        "code": "28654",
+        "name": "Bio-Medical Instruments"
+    },
+    {
+        "code": "26761",
+        "name": "AC Machine-I"
+    },
+    {
+        "code": "26762",
+        "name": "Transmission and Distribution of  Eectrical  Power-I"
+    },
+    {
+        "code": "26763",
+        "name": "Electrical & Electronic Measurements-II"
+    },
+    {
+        "code": "26861",
+        "name": "TV Studio and  Broadcastig"
+    },
+    {
+        "code": "26862",
+        "name": "Microcontroller and Embedded System"
+    },
+    {
+        "code": "26863",
+        "name": "PCB Design and Prototyping"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26771",
+        "name": "AC Machine-II"
+    },
+    {
+        "code": "26772",
+        "name": "Transmission and Distribution of  Ellectrical Power-II"
+    },
+    {
+        "code": "26871",
+        "name": "Microwave  Radar and Navigation Aids"
+    },
+    {
+        "code": "26872",
+        "name": "Industrial Automation and PLC"
+    },
+    {
+        "code": "26873",
+        "name": "Control System and Robotics"
+    },
+    {
+        "code": "26874",
+        "name": "Electronic Project"
+    },
+    {
+        "code": "26881",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "27011",
+        "name": "Basic Workshop Practice"
+    },
+    {
+        "code": "27211",
+        "name": "RAC Fundamental"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "27021",
+        "name": "Mechanical Engineering Drawing"
+    },
+    {
+        "code": "27022",
+        "name": "Mechanical Engineering Materials"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26211",
+        "name": "Automobile Fundamentals"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "27131",
+        "name": "Engineering Thermodynamics"
+    },
+    {
+        "code": "27231",
+        "name": "RAC Cycles & Components"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "27012",
+        "name": "Machine Shop Practice I"
+    },
+    {
+        "code": "27041",
+        "name": "Engineering Mechanics"
+    },
+    {
+        "code": "27241",
+        "name": "Circuits and Electrical Machine in RAC"
+    },
+    {
+        "code": "27242",
+        "name": "Transport RAC"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "27043",
+        "name": "Metallurgy"
+    },
+    {
+        "code": "27051",
+        "name": "Fluid Mechanics & Machineries"
+    },
+    {
+        "code": "27052",
+        "name": "Mechanical Estimating & Costing"
+    },
+    {
+        "code": "27251",
+        "name": "HVAC"
+    },
+    {
+        "code": "27252",
+        "name": "Commercial & Industrial RAC"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "27055",
+        "name": "Manufacturing Process"
+    },
+    {
+        "code": "27061",
+        "name": "Strength of Materials"
+    },
+    {
+        "code": "27063",
+        "name": "CAD & CAM"
+    },
+    {
+        "code": "27065",
+        "name": "Plant Engineering & Maintainance"
+    },
+    {
+        "code": "27261",
+        "name": "Cooling &Heating Load Calculation"
+    },
+    {
+        "code": "27262",
+        "name": "RAC Plant Installation Maintenance & Operation"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "27075",
+        "name": "Production Planning & Control"
+    },
+    {
+        "code": "27271",
+        "name": "RAC System Analysis"
+    },
+    {
+        "code": "27272",
+        "name": "RAC Project"
+    },
+    {
+        "code": "27273",
+        "name": "Advance RAC"
+    },
+    {
+        "code": "27274",
+        "name": "RAC for Food Preservation"
+    },
+    {
+        "code": "29231",
+        "name": "Mechatronics & PLC"
+    },
+    {
+        "code": "27081",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

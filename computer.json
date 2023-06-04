@@ -1,0 +1,210 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26621",
+        "name": "Python Programming"
+    },
+    {
+        "code": "26622",
+        "name": "Computer Graphics Design-I"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26631",
+        "name": "Application Development Using Python"
+    },
+    {
+        "code": "26632",
+        "name": "Computer Graphics Design-II"
+    },
+    {
+        "code": "26633",
+        "name": "IT Support Services"
+    },
+    {
+        "code": "26831",
+        "name": "Digital Electronics-I"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "26641",
+        "name": "Java Programming"
+    },
+    {
+        "code": "26642",
+        "name": "Data Structure & Algorithm"
+    },
+    {
+        "code": "26643",
+        "name": "Computer Peripherals & Interfacing"
+    },
+    {
+        "code": "26644",
+        "name": "Web Design & Development-I"
+    },
+    {
+        "code": "26841",
+        "name": "Digital Electronics-II"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26651",
+        "name": "Application Development Using Java"
+    },
+    {
+        "code": "26652",
+        "name": "Web Design & Development-II"
+    },
+    {
+        "code": "26653",
+        "name": "Computer Architecture & Microprocessor"
+    },
+    {
+        "code": "26654",
+        "name": "Data Communication"
+    },
+    {
+        "code": "26655",
+        "name": "Operating System"
+    },
+    {
+        "code": "26656",
+        "name": "Project Work-I"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26661",
+        "name": "Database Management System"
+    },
+    {
+        "code": "26662",
+        "name": "Copmputer Networking"
+    },
+    {
+        "code": "26663",
+        "name": "Sensor & IOT System"
+    },
+    {
+        "code": "26664",
+        "name": "Microcontroller Based System Design & Development"
+    },
+    {
+        "code": "26665",
+        "name": "Surveillance Security System"
+    },
+    {
+        "code": "26666",
+        "name": "Web Development Project"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26671",
+        "name": "Digital Marketing Technique"
+    },
+    {
+        "code": "26672",
+        "name": "Network Administration & Services"
+    },
+    {
+        "code": "26673",
+        "name": "Cyber Security & Ethics"
+    },
+    {
+        "code": "26674",
+        "name": "Apps Development Project"
+    },
+    {
+        "code": "26675",
+        "name": "Multimedia & Animation"
+    },
+    {
+        "code": "26676",
+        "name": "Project Work-II"
+    },
+    {
+        "code": "29081",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]

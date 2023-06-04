@@ -1,0 +1,198 @@
+[
+    {
+        "code": "21011",
+        "name": "Engineering Drawing"
+    },
+    {
+        "code": "25711",
+        "name": "Bangla-I"
+    },
+    {
+        "code": "25712",
+        "name": "English-I"
+    },
+    {
+        "code": "25911",
+        "name": "Mathematics -I"
+    },
+    {
+        "code": "25912",
+        "name": "Physics-I"
+    },
+    {
+        "code": "26711",
+        "name": "Basic Electricity"
+    },
+    {
+        "code": "29411",
+        "name": "Basics of Telecommunication"
+    },
+    {
+        "code": "25721",
+        "name": "Bangla-II"
+    },
+    {
+        "code": "25722",
+        "name": "English-II"
+    },
+    {
+        "code": "25811",
+        "name": "Social Science"
+    },
+    {
+        "code": "25812",
+        "name": "Physical Education & Life Skills Development"
+    },
+    {
+        "code": "25921",
+        "name": "Mathematics-II"
+    },
+    {
+        "code": "25922",
+        "name": "Physics-II"
+    },
+    {
+        "code": "26721",
+        "name": "Electrical Circuits-I"
+    },
+    {
+        "code": "26811",
+        "name": "Basic Electronics"
+    },
+    {
+        "code": "25913",
+        "name": "Chemistry"
+    },
+    {
+        "code": "25931",
+        "name": "Mathematics-III"
+    },
+    {
+        "code": "26611",
+        "name": "Computer Office Application"
+    },
+    {
+        "code": "26731",
+        "name": "Electrical Circuits-II"
+    },
+    {
+        "code": "26821",
+        "name": "Electronic Devices and Circuits"
+    },
+    {
+        "code": "29431",
+        "name": "Telecom Workshop and Outside Plant"
+    },
+    {
+        "code": "25841",
+        "name": "Accounting"
+    },
+    {
+        "code": "26667",
+        "name": "Progamming  in C"
+    },
+    {
+        "code": "26741",
+        "name": "Electrical Installation,Planning and Estimating"
+    },
+    {
+        "code": "26845",
+        "name": "Digital Electronics"
+    },
+    {
+        "code": "29441",
+        "name": "Radio and TV Engineering"
+    },
+    {
+        "code": "29442",
+        "name": "IT Support and IoT Basics"
+    },
+    {
+        "code": "29443",
+        "name": "Data Communications and Networking"
+    },
+    {
+        "code": "25851",
+        "name": "Principle of Marketing"
+    },
+    {
+        "code": "25852",
+        "name": "Industrial Management"
+    },
+    {
+        "code": "26742",
+        "name": "DC Machine"
+    },
+    {
+        "code": "26751",
+        "name": "Generation of Electrical Power"
+    },
+    {
+        "code": "26752",
+        "name": "Electrical & Electronic Measurements-I"
+    },
+    {
+        "code": "26853",
+        "name": "Microprocessor & Microcontroller"
+    },
+    {
+        "code": "29451",
+        "name": "Multimedia and Webpage Design"
+    },
+    {
+        "code": "26761",
+        "name": "AC Machine-I"
+    },
+    {
+        "code": "26763",
+        "name": "Electrical & Electronic Measurements-II"
+    },
+    {
+        "code": "26764",
+        "name": "Transmission and Distribution of Electrical  Power"
+    },
+    {
+        "code": "29041",
+        "name": "Environmental Studies"
+    },
+    {
+        "code": "29462",
+        "name": "Wireless and Mobile Communication"
+    },
+    {
+        "code": "29463",
+        "name": "Signals and Switching System"
+    },
+    {
+        "code": "25831",
+        "name": "Business Communication"
+    },
+    {
+        "code": "25853",
+        "name": "Innovation & Entrepreneurship"
+    },
+    {
+        "code": "26771",
+        "name": "AC Machine-II"
+    },
+    {
+        "code": "26773",
+        "name": "Switch Gear and Protection"
+    },
+    {
+        "code": "29471",
+        "name": "Microwave Engineering and Antennas"
+    },
+    {
+        "code": "29472",
+        "name": "Optical Fiber Communication"
+    },
+    {
+        "code": "29473",
+        "name": "Satellite Communication and RADAR"
+    },
+    {
+        "code": "26781",
+        "name": "Industrial Attachement & Project Presentation"
+    }
+]
